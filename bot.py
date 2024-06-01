@@ -8,7 +8,7 @@ import os
 description = '''An example bot to showcase the discord.ext.commands extension
 module.
 
-There are a number of utility commands being showcased here.'''
+There are a number of utility commands being showcased here. hola'''
 
 intents = discord.Intents.default()
 intents.members = True
